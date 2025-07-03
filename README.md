@@ -9,7 +9,7 @@ please see directories for more specific resources.
 * 10-13 lecture & hands on\
 [Adrian Bayer: statistical modeling + shallow ML](Lecture_Day1_Bayer)
 * 14-15 [fireslides](TODO) (each participant 1min to present themselves)
-* 15-16 [hack](Hack) introduction & group forming
+* 15-17 [hack](Hack) introduction & group forming
 
 ### Tuesday (Aug 19)
 * 10-13 lecture & hands on\
@@ -25,10 +25,10 @@ please see directories for more specific resources.
 ### Thursday (Aug 21)
 * 10-13 lecture & hands on\
 [Vera Maiboroda: symmetries & specialized architectures](Lecture_Day4_Maiboroda)
-* 14-14.30 astro research example
+* 14-14.30 astro research example: observation (Tomomi Sunayama)
 * 14.30- hack
 
 ### Friday (Aug 22)
 * 10-13 hack presentations
-* 14-14.30 astro research example
+* 14-14.30 astro research example: simulation (Ken Nagamine)
 * 14.30-17 hack presentations
