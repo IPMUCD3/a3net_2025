@@ -18,9 +18,9 @@ please see directories for more specific resources.
 * 14.30- hack
 
 ### Wednesday (Aug 20)
-* 10-13 lecture & hands on\
+* 9-12 lecture & hands on\
 [Carol Cuesta Lazaro: generative models](Lecture_Day3_CuestaLazaro)
-* 13- excursion & dinner
+* 12- quick lunch, excursion (depart KIAS 12.30) & dinner
 
 ### Thursday (Aug 21)
 * 10-13 lecture & hands on\
