@@ -7,7 +7,7 @@ please see directories for more specific resources.
 ### Monday (Aug 18)
 * 9-9.30 Registration
 * 9.30-12.30 lecture & hands on\
-[Adrian Bayer: statistical modeling + shallow ML](Lecture_Day1_Bayer)
+[Adrian Bayer: statistical modeling + intro to ML](Lecture_Day1_Bayer)
 * 14-15 [fireslides](TODO) (each participant 1min to present themselves)
 * 15-17 [hack](Hack) introduction & group forming
 
