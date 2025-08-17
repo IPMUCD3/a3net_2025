@@ -95,18 +95,20 @@ Find a set of variable to construct the best model of the magnitude at maximum o
 
 Contact person: ?
 
-## (8) Using ML to infer the fundamental parameters of the Universe
+## (8) Using MLs to infer the fundamental parameters of the Universe
 
 For this hack, we're using the CAMELS multifield data set.
 The data is in the `CAMELS_multifield` directory in the Google Drive linked above.
 
 Please see the [notebook](CAMELS_multifield.ipynb) for a quick explanation of the data format.
 
-Use the available data to train a CNN to infer the underlying cosmological parameters
+Use the available data to train a machine learning to infer the underlying cosmological parameters
 from the images.
 
 How well does your trained network generalize? For example, if you train on the IllustrisTNG
 simulations and test on SIMBA, are the inferred cosmological parameters correct?
+
+Or, can you determine which simulation was used to make a given image?
 
 contact person: Leander Thiele, Sungwook E. Hong
 
@@ -137,3 +139,15 @@ You could use then try to fill in the fine details with a second stage.
 *This is really an open-ended hack and you can be creative!*
 
 contact person: Leander Thiele
+
+
+## (10) A generative model for galaxy image
+
+During the lectures, we use the [galaxy image dataset with morphology classification](https://drive.google.com/uc?id=1QjTECPvkzrXUJxishXS-0KTknNq0erly).
+
+While we have been using this dataset mostly for galaxy morphology classification, can we use it in a reversed way?
+That is, can we generate a mock galaxy image from a given morphology?
+
+Moreover, what other parameters can we introduce for our mock galaxy image generation, such as inclination angle, major/minor radius, and RGB channel brightness?
+
+contact person: Sungwook E. Hong
