@@ -1,1 +1,1 @@
-# Day 1: statistical modeling and shallow ML
+# Day 1: statistical modeling and intro to ML
