@@ -95,10 +95,10 @@ Find a set of variable to construct the best model of the magnitude at maximum o
 
 Contact person: ?
 
-## (8) Using CNNs to infer the fundamental parameters of the Universe
+## (8) Using ML to infer the fundamental parameters of the Universe
 
 For this hack, we're using the CAMELS multifield data set.
-The data is in the `CAMELS_multifield` directory in the google drive linked above.
+The data is in the `CAMELS_multifield` directory in the Google Drive linked above.
 
 Please see the [notebook](CAMELS_multifield.ipynb) for a quick explanation of the data format.
 
@@ -108,7 +108,7 @@ from the images.
 How well does your trained network generalize? For example, if you train on the IllustrisTNG
 simulations and test on SIMBA, are the inferred cosmological parameters correct?
 
-contact person: Leander Thiele
+contact person: Leander Thiele, Sungwook E. Hong
 
 ## (9) A generative model for galaxy spectra
 
