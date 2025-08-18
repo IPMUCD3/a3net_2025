@@ -39,7 +39,7 @@ please follow [this link](https://archive.stsci.edu/hello-universe/3d-hst)
 Goal: the notebook and data set in the link above are for a project that uses a decision tree to estimate the redshifts of galaxies. In this hack, you will explore other ML algorithms for using the same data to estimate galaxy redshifts. Scikit-Learn has a [flow chart](https://scikit-learn.org/1.3/tutorial/machine_learning_map/index.html) for selecting ML methods. Support Vector Regression might be an interesting technique to try.
 Note: the Hello Universe notebook is also available on the [TIKE science platform](https://timeseries.science.stsci.edu/hub/spawn) (select the default environment to spin up an AWS server)
 
-contact person: Adrian Bayer
+contact person: Vera Maiboroda
 
 
 ## (4) Interpretation of GAN's latent space
