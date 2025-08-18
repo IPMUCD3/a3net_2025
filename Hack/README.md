@@ -24,14 +24,14 @@ with convolutional neural nets.
 All the material is available at:
 [this link](https://github.com/cesarjesusvalls/A3NetRingImg)
 
-contact person: ?
+contact person: Vera Maiboroda
 
 ## (2) Galaxy Cluster Masses with CNNs
 please follow [this link](https://drive.google.com/drive/folders/1yLN3xN-1EU2HPYcbX68Z8SgLQcs1LpiI?usp=sharing)
 
 Goal: the paper, notebook, and data set in the link above are for a project that uses a CNN to estimate the mass of a galaxy cluster from x-ray mock observations. In this hack, you will first recreate the paper’s results. Then you will apply a rotationally invariant CNN, and see if that approach improves the results!
 
-contact person: ?
+contact person: Leander Thiele
 
 ## (3) Galaxy redshifts with Decision Trees
 please follow [this link](https://archive.stsci.edu/hello-universe/3d-hst)
@@ -39,7 +39,7 @@ please follow [this link](https://archive.stsci.edu/hello-universe/3d-hst)
 Goal: the notebook and data set in the link above are for a project that uses a decision tree to estimate the redshifts of galaxies. In this hack, you will explore other ML algorithms for using the same data to estimate galaxy redshifts. Scikit-Learn has a [flow chart](https://scikit-learn.org/1.3/tutorial/machine_learning_map/index.html) for selecting ML methods. Support Vector Regression might be an interesting technique to try.
 Note: the Hello Universe notebook is also available on the [TIKE science platform](https://timeseries.science.stsci.edu/hub/spawn) (select the default environment to spin up an AWS server)
 
-contact person: ?
+contact person: Adrian Bayer
 
 
 ## (4) Interpretation of GAN's latent space
@@ -56,7 +56,7 @@ Materials: Example codes for VAE and GAN can be found in the notebooks of [the T
 
 Note: I recommend using low-dimensional data (e.g., 1D) and reducing the size of data (e.g., by lowering the resolution or clipping the data) whenever possible, given the limited computational cost and time.
 
-Contact person: Kana Moriwaki (?)
+Contact person: Leander Thiele
 
 ## (5) Transfer learning 
 
@@ -71,7 +71,7 @@ I have not tested if the pre-trained PyTorch models for images run smoothly in G
 
 Note: if a large amount of data is used in transfer learning, the differences between transfer learning and training from scratch may become negligible. To properly assess the benefits of transfer learning, it may be helpful to limit the size of the dataset used for transfer learning. See, e.g., Fig. 5 of [this study](https://arxiv.org/abs/2310.02994) for similar investigation.
 
-Contact person: Kana Moriwaki (?)
+Contact person: Adrian Bayer
 
 ## (6) Weather classifier
 
@@ -83,7 +83,7 @@ Develop a CNN classifier of the sky condition using images obtained with our sky
 
 There are thousands of images in the above link (google drive), while I have ten thousands of images in my USB flash drive. If you have try to use them, please let me know. 
 
-Contact person: ?
+Contact person: Sungwook Hong
 
 ## (7) Variable selection
 
@@ -93,7 +93,7 @@ Find a set of variable to construct the best model of the magnitude at maximum o
 
 [Data](https://drive.google.com/drive/folders/1kz94LOxBTEpKeNBrG56K8rs9sp2u9Y8M?usp=sharing)
 
-Contact person: ?
+Contact person: Adrian Bayer
 
 ## (8) Using MLs to infer the fundamental parameters of the Universe
 
