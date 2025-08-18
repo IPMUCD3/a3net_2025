@@ -161,3 +161,9 @@ The data can be found [here](https://cernbox.cern.ch/s/RrahTLjGbYufqnB).
 An example of where this can be used is the High-Luminosity upgrade of the LHC, which involves replacing some of the subdetectors. For instance, the Inner Detector in the ATLAS experiment will be replaced by an All-Silicon Tracker (ITk). One of the main components of the ITk is the pixel module, which records the passage of particles through it. For the ITk, over 10,000 pixel modules need to be assembled. With such large quantities, human visual inspection of every single module is not feasible, so we are looking for ways to automate this procedure.
 
 contact person: Vera Maiboroda
+
+## (12) CosmoBench -- Benchmarking ML for Cosmology
+
+We recently published a [paper](https://arxiv.org/abs/2507.03707) benchmarking (comparing) different methods for cosmological inference, including linear models for the power spectrum and Graph Neural Networks. The data with tutorials is described [here](https://cosmobench.streamlit.app/). It consists of simulated of galaxy, halos, and more! This is a very open project where you can try the methods in the paper, or new methods ad architectures, to produce better predicitons of cosmological parameters from the data, and also the scaling with number of simulations. 
+
+contact person: Adrian Bayer
