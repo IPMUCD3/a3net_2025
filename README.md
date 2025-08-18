@@ -8,7 +8,7 @@ please see directories for more specific resources.
 * 9-9.30 Registration
 * 9.30-12.30 lecture & hands on\
 [Adrian Bayer: statistical modeling + intro to ML](Lecture_Day1_Bayer)
-* 14-15 [fireslides](TODO) (each participant 1min to present themselves)
+* 14-15 [fireslides](https://docs.google.com/presentation/d/1Wg5homy8QXrAVflASDlO8te66qzTsT6DtLtyvOJrSm4) (each participant 1min to present themselves)
 * 15-17 [hack](Hack) introduction & group forming
 
 ### Tuesday (Aug 19)
