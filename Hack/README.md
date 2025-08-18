@@ -90,7 +90,7 @@ Develop a CNN classifier of the sky condition using images obtained with our sky
 
 [Data](https://drive.google.com/drive/folders/1KJs-OVU-ZSyiTIHtZusgFAktwFtv97S9?usp=share_link)
 
-There are thousands of images in the above link (google drive), while I have ten thousands of images in my USB flash drive. If you have try to use them, please let me know. 
+There are thousands of images in the above link (google drive)~~, while I have ten thousands of images in my USB flash drive. If you have try to use them, please let me know~~. 
 
 Contact person: Sungwook Hong
 
