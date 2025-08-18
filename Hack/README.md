@@ -52,7 +52,16 @@ Unlike VAE, GANs do not provide a direct mapping from the data space to the late
 
 It is also possible to design the model so that the latent space is interpretable by making the model conditional, i.e., by using the parameter space as the latent space.
 
-Materials: Example codes for VAE and GAN can be found in the notebooks of [the Thursday's hands on](Lecture_Day4_Moriwaki). 
+Materials: Example codes for VAE and GAN can be found in the notebooks:
+
+[VAE](https://colab.research.google.com/drive/1oscMuJK7QlifUNMGnayZQp2js9cx7OYi?usp=sharing)
+
+[GAN](https://colab.research.google.com/drive/10Zb_yX1iGXYXwt6BGqCLz3rIkGjT1_B1?usp=sharing)
+
+[Flow](https://colab.research.google.com/drive/1AA7fD5K-zYjkLqZERBDWinbeKO2BHTEE?usp=sharing)
+
+Data are: SDSS spectrum dataset in [Google drive](https://drive.google.com/drive/u/1/folders/13ySEme-B8XDMYgTZ8_rVpMarRUUGYbTw).
+
 
 Note: I recommend using low-dimensional data (e.g., 1D) and reducing the size of data (e.g., by lowering the resolution or clipping the data) whenever possible, given the limited computational cost and time.
 
