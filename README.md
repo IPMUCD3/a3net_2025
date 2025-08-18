@@ -25,10 +25,10 @@ please see directories for more specific resources.
 ### Thursday (Aug 21)
 * 9.30-12.30 lecture & hands on\
 [Vera Maiboroda: symmetries & specialized architectures](Lecture_Day4_Maiboroda)
-* 14-14.30 astro research example: observation (Leander Thiele)
+* 14-14.30 astro research example: simulation (Ken Nagamine)
 * 14.30- hack
 
 ### Friday (Aug 22)
 * 9.30-12.30 hack presentations
-* 14-14.30 astro research example: simulation (Ken Nagamine)
+* 14-14.30 astro research example: observation (Leander Thiele)
 * 14.30-17 hack presentations
