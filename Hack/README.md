@@ -151,3 +151,11 @@ That is, can we generate a mock galaxy image from a given morphology?
 Moreover, what other parameters can we introduce for our mock galaxy image generation, such as inclination angle, major/minor radius, and RGB channel brightness?
 
 contact person: Sungwook E. Hong
+
+## (11) Automatic detection of defects on detector hardware
+
+In preparation for the experiments, we often need to produce specific detector hardware parts. When the production scale becomes large, there is a need for a tool capable of automatically performing quality control on hardware components. The goal of this hack is to detect defects in the metallic contact parts.
+
+The data can be found [here](https://cernbox.cern.ch/s/RrahTLjGbYufqnB).
+
+contact person: Vera Maiboroda
