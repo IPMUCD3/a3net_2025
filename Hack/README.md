@@ -158,4 +158,6 @@ In preparation for the experiments, we often need to produce specific detector h
 
 The data can be found [here](https://cernbox.cern.ch/s/RrahTLjGbYufqnB).
 
+An example of where this can be used is the High-Luminosity upgrade of the LHC, which involves replacing some of the subdetectors. For instance, the Inner Detector in the ATLAS experiment will be replaced by an All-Silicon Tracker (ITk). One of the main components of the ITk is the pixel module, which records the passage of particles through it. For the ITk, over 10,000 pixel modules need to be assembled. With such large quantities, human visual inspection of every single module is not feasible, so we are looking for ways to automate this procedure.
+
 contact person: Vera Maiboroda
