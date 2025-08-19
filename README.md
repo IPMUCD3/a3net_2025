@@ -14,7 +14,7 @@ please see directories for more specific resources.
 ### Tuesday (Aug 19)
 * 9.30-12.30 lecture & hands on\
 [Sungwook E. Hong: intro to deep learning](Lecture_Day2_Hong)
-* 14-14.30 industry example
+* 14-14.30 astro research example: simulation (Ken Nagamine)
 * 14.30- hack
 
 ### Wednesday (Aug 20)
@@ -25,7 +25,7 @@ please see directories for more specific resources.
 ### Thursday (Aug 21)
 * 9.30-12.30 lecture & hands on\
 [Vera Maiboroda: symmetries & specialized architectures](Lecture_Day4_Maiboroda)
-* 14-14.30 astro research example: simulation (Ken Nagamine)
+* 14-14.30 industry example
 * 14.30- hack
 
 ### Friday (Aug 22)
