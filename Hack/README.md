@@ -39,7 +39,7 @@ please follow [this link](https://archive.stsci.edu/hello-universe/3d-hst)
 Goal: the notebook and data set in the link above are for a project that uses a decision tree to estimate the redshifts of galaxies. In this hack, you will explore other ML algorithms for using the same data to estimate galaxy redshifts. Scikit-Learn has a [flow chart](https://scikit-learn.org/1.3/tutorial/machine_learning_map/index.html) for selecting ML methods. Support Vector Regression might be an interesting technique to try.
 Note: the Hello Universe notebook is also available on the [TIKE science platform](https://timeseries.science.stsci.edu/hub/spawn) (select the default environment to spin up an AWS server)
 
-contact person: Adrian Bayer
+contact person: Vera Maiboroda
 
 
 ## (4) Interpretation of GAN's latent space
@@ -90,7 +90,7 @@ Develop a CNN classifier of the sky condition using images obtained with our sky
 
 [Data](https://drive.google.com/drive/folders/1KJs-OVU-ZSyiTIHtZusgFAktwFtv97S9?usp=share_link)
 
-There are thousands of images in the above link (google drive), while I have ten thousands of images in my USB flash drive. If you have try to use them, please let me know. 
+There are thousands of images in the above link (google drive)~~, while I have ten thousands of images in my USB flash drive. If you have try to use them, please let me know~~. 
 
 Contact person: Sungwook Hong
 
@@ -173,6 +173,8 @@ contact person: Vera Maiboroda
 
 ## (12) CosmoBench -- Benchmarking ML for Cosmology
 
-We recently published a [paper](https://arxiv.org/abs/2507.03707) benchmarking (comparing) different methods for cosmological inference, including linear models for the power spectrum and Graph Neural Networks. The data with tutorials is described [here](https://cosmobench.streamlit.app/). It consists of simulated of galaxy, halos, and more! This is a very open project where you can try the methods in the paper, or new methods ad architectures, to produce better predicitons of cosmological parameters from the data, and also the scaling with number of simulations. 
+How well do different ML methods perform at cosmological inference? Are linear models enough? Do we gain a lot by using neural networks? We recently published a [paper](https://arxiv.org/abs/2507.03707) benchmarking (comparing) different methods for cosmological inference, including linear models for the power spectrum and Graph Neural Networks, but there are so many methods and tasks to be explored!
+
+The data with tutorials is described [here](https://cosmobench.streamlit.app/). It consists of simulated of galaxy, halos, and more! This is a very open project where you can try the methods in the paper, or new methods ad architectures, to produce better predicitons of cosmological parameters from the data, and also the scaling with number of simulations. 
 
 contact person: Adrian Bayer
