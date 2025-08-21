@@ -7,3 +7,5 @@ This lecture will cover:
 - Some tips for deep learning newbies
 
 You can find the hands-on Jupyter notebook at [this GitHub page](A3Net2025_hands_on_sungwook.ipynb) or [Google Colab](https://colab.research.google.com/drive/1ypk7vMhHUnPyoWsts6oqaUTb-nbk50F4?usp=sharing).
+
+The lecture note is uploaded [here](250819_A3Net.pdf)
