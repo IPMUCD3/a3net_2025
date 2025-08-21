@@ -29,6 +29,7 @@ please see directories for more specific resources.
 * 14.30- hack
 
 ### Friday (Aug 22)
-* 9.30-12.30 hack presentations
+* 9.30-10 hack presentations final discussions
+* 10-12.30 hack presentations
 * 14-14.30 astro research example: observation (Leander Thiele)
-* 14.30-17 hack presentations
+* 14.30-16 hack presentations
