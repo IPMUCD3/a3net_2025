@@ -1,6 +1,6 @@
 # Hack Resources
 
-[Slide deck for Friday presentations -- will be inserted later!](TODO)
+[Slide deck for Friday presentations -- will be inserted later!](https://docs.google.com/presentation/d/1Wg5homy8QXrAVflASDlO8te66qzTsT6DtLtyvOJrSm4/edit?usp=sharing)
 
 [google drive for data](https://drive.google.com/drive/u/1/folders/13ySEme-B8XDMYgTZ8_rVpMarRUUGYbTw)
 
